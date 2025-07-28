@@ -4,7 +4,7 @@ Cell Defender is an ongoing educational app designed for kids, offering a fun an
 
 Players will explore how the immune system works, recognize different types of pathogens, and apply strategic thinking to fight off infections, all while having fun!
 
-Current Activities
+# Current Activities
 1. Immune Tower Defense
 Plan and deploy your immune defenses to stop waves of invading bacteria and viruses targeting different areas of the body. Each new wave becomes more challenging, requiring you to upgrade and strategize using various immune cells and defenses. How long can you survive?
 
@@ -23,7 +23,7 @@ Identify and target harmful microbes
 
 Beat your high score and learn while playing
 
-More to Come
+# More to Come
 New features and activities are in development! Stay tuned as we continue to expand Cell Defender with new levels, educational content, and fun challenges that bring biology to life.
 
 
